@@ -1,0 +1,6 @@
+credentials.json
+pix_api_mercadopago/credentials.json
+.env
+.venv
+pix_api_mercadopago/botteste.py
+
